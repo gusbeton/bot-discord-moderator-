@@ -1,0 +1,12 @@
+{
+  "name": "utility-bot",
+  "version": "1.0.0",
+  "description": "Discord Utility Bot",
+  "main": "utility.js",
+  "scripts": {
+    "start": "node utility.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
